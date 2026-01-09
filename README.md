@@ -46,4 +46,3 @@ python task2.py
 
  Author
 Soham Bajad
-Python Assignment Submission
